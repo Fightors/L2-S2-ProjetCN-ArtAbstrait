@@ -1,3 +1,5 @@
 # L2-S2-ProjetPythonProcessing
 
-Projet de Créatio Numérique en Processing
+Projet de Création Numérique en Processing
+
+Objectif : création graphique abstraite infini exploitant de la géométrie et des couleurs
